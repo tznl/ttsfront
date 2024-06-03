@@ -31,7 +31,6 @@ if __name__ == '__main__':
 
     def main():
         while running:
-#            print('> ', end='')
             text = input("> ")
             stream.feed(dummy_generator(text))
             stream.play(

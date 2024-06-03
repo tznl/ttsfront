@@ -6,6 +6,8 @@ I'll try to make this easier as i update it over time (there are other things i 
 
 Installation:
 
+1. Download ttsfront from https://github.com/tznl/ttsfront/archive/refs/heads/main.zip
+2. Run install.bat in the Scripts folder.
 1. Install python3.11.9 https://www.python.org/downloads/release/python-3119/
 2. (on windows) Install C++ Visual Studio Build Tools https://visualstudio.microsoft.com/visual-cpp-build-tools/
 2. For nvidia-gpu support (recommended(especially on windows)) get 
