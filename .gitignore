@@ -1,5 +1,6 @@
 2main.spec
-voice/*
+voice/*.wav
+voice/*.json
 output.wav
 models/
 dist/
