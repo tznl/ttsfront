@@ -10,7 +10,7 @@ if __name__ == '__main__':
     #Setup
 
     engine  = CoquiEngine(
-        model_name  = "tts_models/multilingual/multi-dataset/xtts_v2",
+        model_name  = "tts_models/multilingual/multi-dataset/bark",
         voices_path = "./voice",
         language    = "en",
         voice       = "nicole.wav",
@@ -36,8 +36,6 @@ if __name__ == '__main__':
             stream.play(
                 log_synthesized_text=False,
                 tokenizer = "nltk",
-                context_size = 12,
-                force_first_fragment_after_words=20,
                 output_wavfile="output.wav")
 
     print("You may start typing.")

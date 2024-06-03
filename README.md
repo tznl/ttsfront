@@ -21,7 +21,7 @@ Only for Windows.
 1. Install Virtual Audio Cable https://vb-audio.com/Cable/
 2. On reboot go to sound settings (System > Sound)
 3. Under "Choose your input device" select "CABLE Output"
-4. Open ttsfront.
+4. Open ttsfront. Type anything and enter it so that the window appears in the settings later.
 5. (System > Sound > App volume and device preferences) Specify ttsfront's input and output and the designated "CABLE" input and output.
 6. Whenever you want to use this program as a microphone make sure to select "CABLE" as the microphone name.
 7. Run scripts/update.bat when needed.
