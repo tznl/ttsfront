@@ -10,7 +10,7 @@ if __name__ == '__main__':
     #Setup
 
     engine  = CoquiEngine(
-        model_name  = "tts_models/multilingual/multi-dataset/bark",
+        model_name  = "tts_models/multilingual/multi-dataset/xtts_v2",
         voices_path = "./voice",
         language    = "en",
         voice       = "nicole.wav",
