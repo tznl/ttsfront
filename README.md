@@ -23,3 +23,4 @@ Only for Windows.
 4. Open ttsfront.
 5. (System > Sound > App volume and device preferences) Specify ttsfront's input and output and the designated "CABLE" input and output.
 6. Whenever you want to use this program as a microphone make sure to select "CABLE" as the microphone name.
+7. Run scripts/update.bat when needed.
