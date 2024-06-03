@@ -1,6 +1,9 @@
 if __name__ == '__main__':
+    print("Please wait.")
     from RealtimeTTS import TextToAudioStream, CoquiEngine
-    import sounddevice, time, logging, sys, readline
+    import sounddevice, time, logging, sys
+    if 'linux' in sys.platform:
+        import readline
 
 
 
