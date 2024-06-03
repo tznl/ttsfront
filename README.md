@@ -6,15 +6,14 @@ I'll try to make this easier as i update it over time (there are other things i 
 
 Installation:
 
-1. Download ttsfront from https://github.com/tznl/ttsfront/archive/refs/heads/main.zip
-2. Run install.bat in the Scripts folder.
 1. Install python3.11.9 https://www.python.org/downloads/release/python-3119/
 2. (on windows) Install C++ Visual Studio Build Tools https://visualstudio.microsoft.com/visual-cpp-build-tools/
 2. For nvidia-gpu support (recommended(especially on windows)) get 
 https://developer.nvidia.com/cuda-11-8-0-download-archive and 
 https://developer.nvidia.com/rdp/cudnn-archive.
 3. Install ffmpeg. (on windows) Install Chocolatey. https://chocolatey.org/install#individual
-4. Run install.bat for windows. Run install.sh for Linux.
+4. Download ttsfront from https://github.com/tznl/ttsfront/archive/refs/heads/main.zip
+5. Run scripts/install.bat for windows. Run install.sh for Linux.
 
 Only for Windows.
 
