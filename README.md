@@ -14,6 +14,7 @@ https://developer.nvidia.com/rdp/cudnn-archive.
 3. Install ffmpeg. (on windows) Install Chocolatey. https://chocolatey.org/install#individual
 4. Download ttsfront from https://github.com/tznl/ttsfront/archive/refs/heads/main.zip
 5. Run scripts/install.bat for windows. Run install.sh for Linux.
+6. Extract the contents of voice.zip into voice/. https://drive.google.com/file/d/1q1xOcSnVfA-Bk3jRyA7KcLVn365ibBk0/view?usp=sharing
 
 Only for Windows.
 

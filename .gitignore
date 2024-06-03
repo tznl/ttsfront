@@ -1,6 +1,7 @@
 2main.spec
 voice/*.wav
 voice/*.json
+**/*.zip
 output.wav
 models/
 dist/
