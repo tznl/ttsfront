@@ -6,3 +6,10 @@ choco install ffmpeg
 pip install openai keyboard realtimestt sounddevice readline
 python -m venv ..\env_realtimetts
 ..\env_realtimetts\Scripts\activate.bat
+echo:
+echo:
+echo:
+echo:
+echo:
+echo "install script finished"
+@pause
